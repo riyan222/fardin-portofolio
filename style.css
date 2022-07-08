@@ -12,13 +12,11 @@ color: orange;
 }
 
 
-section{
-    display: flex;
 
-}
 .half-width{
     width: 50%;
     padding-left: 50px;
+    margin-bottom: 100px;
 }
 .half-width img{
     width: 90%;
@@ -34,7 +32,7 @@ section{
 .banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
-    
+    display: flex;
     
 }
 .pg{
@@ -43,4 +41,39 @@ text-align: justify;
 }
 #pragraph{
     text-align: justify;
+}
+
+.riyan{
+    margin-right: 20px;
+    width: 50%;
+
+}
+
+.riyan img {
+width: 80%;
+}
+.second-section{
+    display: flex;
+}
+.hello{
+padding-top: 90px;
+
+}
+
+.half-width{
+    text-align: justify;
+}
+
+#hi{
+    text-align: justify;
+}
+.resume{
+text-decoration: none;
+background-image: linear-gradient(orange,tomato);
+padding: 10px 30px;
+border-radius: 5px;
+color: white;
+font-weight: 800;
+
+
 }
