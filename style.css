@@ -104,10 +104,12 @@ background-position: left;
 
 .xprnc{
  width: 40%;
- text-align: justify;
-padding: 20px;
 margin-bottom: 150px;
 margin-left: 80px;
+padding-left: 15px;
+padding-right: 15px;
+padding-top: 10px;
+padding-bottom: 150px;
 
 
 }
@@ -126,6 +128,10 @@ border-left: 7px solid blue;
  border-left: 7px solid tomato;
 
 
+}
+.mk{
+text-align: justify;
+padding-top: 10px;
 }
 
 p{
