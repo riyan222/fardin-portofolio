@@ -56,7 +56,7 @@ width: 80%;
     display: flex;
 }
 .hello{
-padding-top: 90px;
+padding-top: 30px;
 
 }
 
@@ -76,4 +76,58 @@ color: white;
 font-weight: 800;
 
 
+}
+.second-section{
+background-image: url(images/dream-bg.png);
+background-repeat: no-repeat;
+background-position: right ;
+padding-right: 100px;
+padding-bottom: 30px;
+}
+
+.sect{
+
+margin-top: 150px;
+background-image: url(images/exp-bg.png);
+background-repeat: no-repeat;
+background-position: left;
+
+}
+
+
+.hellp{
+ display: flex;
+ 
+
+
+}
+
+.xprnc{
+ width: 40%;
+ text-align: justify;
+padding: 20px;
+margin-bottom: 150px;
+margin-left: 80px;
+
+
+}
+
+.color{
+color: orange;
+
+}
+
+.new{
+box-shadow: 10px 10px  60px gray ;
+border-left: 7px solid blue;
+}
+
+.sm{
+ border-left: 7px solid tomato;
+
+
+}
+
+p{
+    text-align: center;
 }
